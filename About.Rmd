@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - 我從那裡來？ 
 
-高雄
+高雄。
 
 - 我決定來這裡的動機？
 
